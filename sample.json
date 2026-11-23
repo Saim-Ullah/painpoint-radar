@@ -1,0 +1,8 @@
+[
+ {"number":101,"title":"Installation fails on Windows with missing dependency","body":"The setup guide does not mention the required dependency and installation fails on Windows.","comments":15,"reactions":{"total_count":8},"created_at":"2026-11-05T00:00:00Z","html_url":"https://github.com/example/example/issues/101"},
+ {"number":102,"title":"Setup documentation is confusing for beginners","body":"I cannot configure the application using the current tutorial. A working example would help.","comments":7,"reactions":{"total_count":5},"created_at":"2026-10-15T00:00:00Z","html_url":"https://github.com/example/example/issues/102"},
+ {"number":103,"title":"API integration times out on large imports","body":"The import API is slow and requests timeout with large data files.","comments":12,"reactions":{"total_count":9},"created_at":"2026-11-10T00:00:00Z","html_url":"https://github.com/example/example/issues/103"},
+ {"number":104,"title":"Login fails after upgrade","body":"After upgrade, authentication fails and users cannot access the dashboard.","comments":4,"reactions":{"total_count":3},"created_at":"2026-11-09T00:00:00Z","html_url":"https://github.com/example/example/issues/104"},
+ {"number":105,"title":"Import documentation lacks examples","body":"The import guide should include examples for CSV files.","comments":2,"reactions":{"total_count":1},"created_at":"2026-09-10T00:00:00Z","html_url":"https://github.com/example/example/issues/105"},
+ {"number":106,"title":"Dashboard loads slowly","body":"The UI performance is slow when the dashboard loads lots of data.","comments":9,"reactions":{"total_count":4},"created_at":"2026-11-15T00:00:00Z","html_url":"https://github.com/example/example/issues/106"}
+]
